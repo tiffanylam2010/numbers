@@ -1,0 +1,4 @@
+*.txt
+bin/
+cocos2d/
+proj.*/
